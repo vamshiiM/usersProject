@@ -8,6 +8,8 @@ ReactJs
 
 NodeJS
 
+MongoDB
+
 -modules used 
 
 expressJs
