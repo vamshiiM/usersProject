@@ -43,7 +43,7 @@ const People = () => {
                 {users.map((user, index) => (
                     <div className="user-card" key={user._id}>
                         <span className="user-name">{index + 1}. {user.name}</span>
-                        <button className="give-button" onClick={() => givePoints(user._id)}>add points</button>
+                        <button className="give-button" onClick={() => givePoints(user._id)}>Claim</button>
                     </div>
                 ))}
             </div>
