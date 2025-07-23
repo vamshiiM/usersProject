@@ -19,13 +19,15 @@ axios
 - to run the project
 
 -cd  fronted 
-"""
+
+```
 npm run dev 
-"""
+```
 
 -cd backend
-'''
+
+```
 nodemon
-'''
+```
 
 
